@@ -126,7 +126,7 @@
   font-size: 22px;
   font-weight: 500;
   text-transform: uppercase;
-  cursor: pointer; 
+  cursor: pointer;
 }
 
 .lots {
@@ -222,12 +222,12 @@
 .about__logo {
   display: flex;
   justify-content: center;
-  justify-self: center; 
+  justify-self: center;
   align-items: center;
-  width: 240px; 
-  height: 240px; 
-  background-color: black; 
-  border-radius: 50%; 
+  width: 240px;
+  height: 240px;
+  background-color: black;
+  border-radius: 50%;
 }
 
 .about__logo-image {
